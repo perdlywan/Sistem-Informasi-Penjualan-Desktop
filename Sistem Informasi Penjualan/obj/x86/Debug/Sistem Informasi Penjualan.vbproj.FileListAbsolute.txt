@@ -1,0 +1,36 @@
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formLogin.resources
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.Resources.resources
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.vbproj.GenerateResource.Cache
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.exe
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.pdb
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.xml
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.exe
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.xml
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.pdb
+c:\users\setia\documents\visual studio 2010\Projects\Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formUtama.resources
+C:\Users\setia\documents\visual studio 2010\Projects\sistem informasi penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.vbprojResolveAssemblyReference.cache
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.exe
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.xml
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_Sistem Informasi Penjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.pdb
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.exe
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.xml
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.pdb
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.exe
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.pdb
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\bin\Debug\Sistem Informasi Penjualan.xml
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.vbprojResolveAssemblyReference.cache
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formDataBarang.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formLogin.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formUtama.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.Resources.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.vbproj.GenerateResource.Cache
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formDataPemasok.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formManajemenAkunAdministrator.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formDataPemasukkanBarang.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formCariBarang.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem_Informasi_Penjualan.formTransaksi.resources
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\bin\Debug\Interop.Crystal.dll
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\bin\Debug\AxInterop.Crystal.dll
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\setia\Documents\Visual Studio 2010\Projects\Kelompok7_SistemInformasiPenjualan\Sistem Informasi Penjualan\obj\x86\Debug\Sistem Informasi Penjualan.vbproj.ResolveComReference.cache
